@@ -53,3 +53,10 @@
   font-weight: bold;
   text-decoration: underline;
 }
+
+.btn {
+  padding: 5px 10px; font-size: 15px;
+  background: #0068df;color: white;
+  border: none;
+  border-radius: 2px;cursor:help;
+}
